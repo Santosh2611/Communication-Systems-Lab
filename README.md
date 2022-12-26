@@ -1,2 +1,1 @@
-# Communication-Systems-Lab
-Demonstration of the mini-lab component activities conducted for the course of Communication Systems Lab (19CCE382). 
+Demonstration of the mini-lab component activities conducted for the course of Communication Systems Lab (19CCE382). Gain hands-on experience with analogue and digital modulation and demodulation methods by seeing the hardware implementation and/or computer simulation of the methods in action. Acquire the skill of troubleshooting the hardware realization and debugging the computer simulation code of modulation and demodulation methods. Conduct communication experiments in an organized manner by thorough pre-experiment preparation including gaining knowledge about the hardware components and/or software functions.
